@@ -1,0 +1,8 @@
+.comment {
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.comment:last-child {
+  border-bottom: none;
+}
